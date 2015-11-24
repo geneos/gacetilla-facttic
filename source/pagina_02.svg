@@ -18,7 +18,19 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="pagina_02.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3411">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#f2f2f2;fill-opacity:0.94117647;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect3413"
+         width="647.25525"
+         height="353.83008"
+         x="48.487324"
+         y="281.13184" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,17 +38,32 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="123.74714"
-     inkscape:cy="555.22944"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="514.82879"
+     inkscape:cy="399.72088"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1881"
-     inkscape:window-height="1056"
-     inkscape:window-x="39"
+     inkscape:window-width="1440"
+     inkscape:window-height="876"
+     inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="48.487323,954.0891"
+       orientation="1,0"
+       id="guide3399" />
+    <sodipodi:guide
+       position="0,1014.1072"
+       orientation="1,0"
+       id="guide3403" />
+    <sodipodi:guide
+       position="695.74257,999.7985"
+       orientation="1,0"
+       id="guide3407" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -53,6 +80,13 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#52a0d7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect3596"
+       width="647.50775"
+       height="250.51782"
+       x="48.48732"
+       y="653.35199" />
     <image
        y="988.6333"
        x="562.71423"
@@ -61,108 +95,6 @@
        preserveAspectRatio="none"
        height="43.586079"
        width="156.00002" />
-    <circle
-       r="90.046616"
-       cy="459.5517"
-       cx="252.21503"
-       id="circle4224"
-       style="opacity:1;fill:#f3641a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       sodipodi:linespacing="73.999995%"
-       id="text4228"
-       y="479.32297"
-       x="251.73422"
-       style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.6421051px;line-height:73.99999499%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan4230"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:97.38947296px;line-height:73.99999499%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff"
-         y="479.32297"
-         x="251.73422"
-         sodipodi:role="line">18</tspan><tspan
-         id="tspan4234"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.6421051px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:center;text-anchor:middle;fill:#ffffff"
-         y="507.39685"
-         x="251.73422"
-         sodipodi:role="line">cooperativas</tspan></text>
-    <circle
-       style="opacity:1;fill:#52a0d7;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle4212"
-       cx="252.21503"
-       cy="686.60132"
-       r="90.046616" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text4274"
-       y="645.95959"
-       x="252.11465"
-       style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.6421051px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan4276"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.93684196px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:center;text-anchor:middle;fill:#ffffff"
-         y="645.95959"
-         x="254.57422"
-         sodipodi:role="line">más de </tspan><tspan
-         id="tspan4278"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48.69473648px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff"
-         y="698.82568"
-         x="252.11465"
-         sodipodi:role="line">800</tspan><tspan
-         id="tspan4280"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.6421051px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:center;text-anchor:middle;fill:#ffffff"
-         y="733.15314"
-         x="252.11465"
-         sodipodi:role="line">clientes</tspan></text>
-    <circle
-       r="90.046616"
-       cy="686.60132"
-       cx="482.35638"
-       id="circle4188"
-       style="opacity:1;fill:#27783c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.6421051px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="481.83859"
-       y="651.04041"
-       id="text4214"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="484.29816"
-         y="651.04041"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.93684196px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:center;text-anchor:middle;fill:#ffffff"
-         id="tspan4216">más de </tspan><tspan
-         sodipodi:role="line"
-         x="481.83859"
-         y="698.59833"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.28421021px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff"
-         id="tspan4264">1900</tspan><tspan
-         sodipodi:role="line"
-         x="481.83859"
-         y="731.47083"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.6421051px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:center;text-anchor:middle;fill:#ffffff"
-         id="tspan4220">proyectos</tspan></text>
-    <circle
-       style="opacity:1;fill:#4a338b;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle4226"
-       cx="482.35638"
-       cy="459.5517"
-       r="90.046616" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.6421051px;line-height:73.00000191%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="482.20844"
-       y="475.14532"
-       id="text4238"
-       sodipodi:linespacing="73.000002%"><tspan
-         sodipodi:role="line"
-         x="482.20844"
-         y="475.14532"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.15789795px;line-height:73.00000191%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff"
-         id="tspan4254">316</tspan><tspan
-         sodipodi:role="line"
-         x="482.20844"
-         y="500.29074"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.6421051px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:center;text-anchor:middle;fill:#ffffff"
-         id="tspan4260">socios</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4370"
@@ -175,8 +107,8 @@
          x="46.227539"
          id="tspan4372"
          sodipodi:role="line"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
-   id="tspan4374">Evolución</tspan> en el tiempo</tspan></text>
+   style="-inkscape-font-specification:'Open Sans Bold';font-family:'Open Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan3384">Proyecto</tspan> educativo</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:173.00000191%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -188,21 +120,146 @@
          x="47.183594"
          y="128.75752"
          style="font-size:20px;line-height:173.00000191%"
-         id="tspan8888">Las cooperativas en el sector de tecnología es una novedad en la </tspan><tspan
+         id="tspan8892" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3376"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.33927536px;line-height:135.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0.01px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       transform="translate(3.0304576,-9.0913729)"><flowRegion
+         id="flowRegion3378"><rect
+           id="rect3380"
+           width="674.89575"
+           height="103.28068"
+           x="44.446712"
+           y="114.94064"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:135.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0.01px;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara3382"
+         style="line-height:200%">Proponemos una construcción colectiva del conocimiento, utilizando los saberes previos y propiciando un ambiente donde podamos descubrir la riqueza de la participación de cada integrante del grupo.</flowPara></flowRoot>    <image
+       sodipodi:absref="/home/neto/proyectos/actividades educativas/De Mentes Libres/fotos/rodante2014/DML/DSC_0866.JPG"
+       y="235.67497"
+       x="48.487324"
+       id="image3394"
+       xlink:href="file:///home/neto/proyectos/actividades%20educativas/De%20Mentes%20Libres/fotos/rodante2014/DML/DSC_0866.JPG"
+       preserveAspectRatio="none"
+       height="428.70157"
+       width="647.25525"
+       clip-path="url(#clipPath3411)"
+       transform="translate(0,-56.568543)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.14271355px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#52a0d7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="48.020763"
+       y="627.78479"
+       id="text3435"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="47.183594"
-         y="163.35753"
-         style="font-size:20px;line-height:173.00000191%"
-         id="tspan5661">Argentina. La empresa con mayor antiguedad tiene solo 10 años.</tspan><tspan
-         sodipodi:role="line"
-         x="47.183594"
-         y="197.95752"
-         style="font-size:20px;line-height:173.00000191%"
-         id="tspan8890">En la actualidad, Argentina se destaca por ser el país con más</tspan><tspan
-         sodipodi:role="line"
-         x="47.183594"
-         y="232.55753"
-         style="font-size:20px;line-height:173.00000191%"
-         id="tspan8892">empresas cooperativas de tecnología en todo el mundo.</tspan></text>
+         id="tspan3437"
+         x="48.020763"
+         y="627.78479"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.67839241px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#52a0d7;fill-opacity:1">Objetivos</tspan></text>
+    <g
+       id="g3479"
+       transform="translate(0.94720905,1.0101525)"
+       style="fill:#ffffff">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4224"
+         cx="65.302383"
+         cy="682.19489"
+         r="7.3479171" />
+      <flowRoot
+         transform="translate(-14.142135,-1.3865171)"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.33927536px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="flowRoot3441"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3443"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+             y="672.36218"
+             x="104.28571"
+             height="120"
+             width="264.28571"
+             id="rect3445" /></flowRegion><flowPara
+           id="flowPara3447">Facilitar el acceso a la programación y la tecnología en general.</flowPara></flowRoot>    </g>
+    <g
+       id="g3486"
+       transform="translate(332.27724,1.0101525)"
+       style="fill:#ffffff;fill-opacity:1">
+      <circle
+         r="7.3479171"
+         cy="682.19489"
+         cx="65.302383"
+         id="circle3488"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3490"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.33927536px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+         transform="translate(-14.142135,-1.3865171)"><flowRegion
+           id="flowRegion3492"><rect
+             id="rect3494"
+             width="264.28571"
+             height="120"
+             x="104.28571"
+             y="672.36218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara3496">Fomentar el estudio de carreras vinculadas con las ciencias y la tecnología.</flowPara></flowRoot>    </g>
+    <circle
+       r="7.3479171"
+       cy="764.01721"
+       cx="66.249596"
+       id="circle3500"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3502"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.33927536px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate;"
+       transform="translate(-13.194926,80.435839)"><flowRegion
+         id="flowRegion3504"><rect
+           id="rect3506"
+           width="264.28571"
+           height="120"
+           x="104.28571"
+           y="672.36218"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara3508">Fomentar la experimentación sobre la relación entre arte y tecnología.</flowPara></flowRoot>    <g
+       transform="translate(332.27724,80.812204)"
+       id="g3510"
+       style="fill:#ffffff;fill-opacity:1">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3512"
+         cx="65.302383"
+         cy="682.19489"
+         r="7.3479171" />
+      <flowRoot
+         transform="translate(-14.142135,-1.3865171)"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.33927536px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="flowRoot3514"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3516"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+             y="672.36218"
+             x="104.28571"
+             height="120"
+             width="264.28571"
+             id="rect3518" /></flowRegion><flowPara
+           id="flowPara3520">Propiciar una construcción colaborativa del conocimiento.</flowPara></flowRoot>    </g>
+    <g
+       id="g3587"
+       style="fill:#ffffff"
+       transform="matrix(1.1756896,0,0,1.1756896,-97.341916,-159.81199)">
+      <flowRoot
+         transform="translate(-8.6372117,-27.142857)"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.33927536px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="flowRoot3522"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3524"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff"
+             y="877.60583"
+             x="226.27417"
+             height="49.292534"
+             width="403.16724"
+             id="rect3526" /></flowRegion><flowPara
+           id="flowPara3528">Difundir los valores del cooperativismo y el trabajo colaborativo</flowPara></flowRoot>    </g>
   </g>
 </svg>
