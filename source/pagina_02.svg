@@ -39,8 +39,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="514.82879"
-     inkscape:cy="399.72088"
+     inkscape:cx="404.27174"
+     inkscape:cy="440.2884"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -80,13 +80,6 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#52a0d7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect3596"
-       width="647.50775"
-       height="250.51782"
-       x="48.48732"
-       y="653.35199" />
     <image
        y="988.6333"
        x="562.71423"
@@ -158,103 +151,106 @@
          y="627.78479"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.67839241px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#52a0d7;fill-opacity:1">Objetivos</tspan></text>
     <g
-       id="g3479"
-       transform="translate(0.94720905,1.0101525)"
-       style="fill:#ffffff">
+       id="g4832">
+      <g
+         style="fill:#52a0d7;fill-opacity:1"
+         transform="translate(0.94720905,1.0101525)"
+         id="g3479">
+        <circle
+           r="7.3479171"
+           cy="682.19489"
+           cx="65.302383"
+           id="circle4224"
+           style="opacity:1;fill:#52a0d7;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3441"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.33927536px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#52a0d7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+           transform="translate(-14.142135,-1.3865171)"><flowRegion
+             id="flowRegion3443"><rect
+               id="rect3445"
+               width="264.28571"
+               height="120"
+               x="104.28571"
+               y="672.36218"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#52a0d7;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara3447">Facilitar el acceso a la programación y la tecnología en general.</flowPara></flowRoot>      </g>
+      <g
+         style="fill:#52a0d7;fill-opacity:1"
+         transform="translate(332.27724,1.0101525)"
+         id="g3486">
+        <circle
+           style="opacity:1;fill:#52a0d7;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle3488"
+           cx="65.302383"
+           cy="682.19489"
+           r="7.3479171" />
+        <flowRoot
+           transform="translate(-14.142135,-1.3865171)"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.33927536px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#52a0d7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+           id="flowRoot3490"
+           xml:space="preserve"><flowRegion
+             id="flowRegion3492"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#52a0d7;fill-opacity:1"
+               y="672.36218"
+               x="104.28571"
+               height="120"
+               width="264.28571"
+               id="rect3494" /></flowRegion><flowPara
+             id="flowPara3496">Fomentar el estudio de carreras vinculadas con las ciencias y la tecnología.</flowPara></flowRoot>      </g>
       <circle
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle4224"
-         cx="65.302383"
-         cy="682.19489"
+         style="opacity:1;fill:#52a0d7;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle3500"
+         cx="66.249596"
+         cy="764.01721"
          r="7.3479171" />
       <flowRoot
-         transform="translate(-14.142135,-1.3865171)"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.33927536px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="flowRoot3441"
+         transform="translate(-13.194926,80.435839)"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.33927536px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#52a0d7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate;"
+         id="flowRoot3502"
          xml:space="preserve"><flowRegion
-           id="flowRegion3443"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+           id="flowRegion3504"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#52a0d7;fill-opacity:1;"
              y="672.36218"
              x="104.28571"
              height="120"
              width="264.28571"
-             id="rect3445" /></flowRegion><flowPara
-           id="flowPara3447">Facilitar el acceso a la programación y la tecnología en general.</flowPara></flowRoot>    </g>
-    <g
-       id="g3486"
-       transform="translate(332.27724,1.0101525)"
-       style="fill:#ffffff;fill-opacity:1">
-      <circle
-         r="7.3479171"
-         cy="682.19489"
-         cx="65.302383"
-         id="circle3488"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot3490"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.33927536px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
-         transform="translate(-14.142135,-1.3865171)"><flowRegion
-           id="flowRegion3492"><rect
-             id="rect3494"
-             width="264.28571"
-             height="120"
-             x="104.28571"
-             y="672.36218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-           id="flowPara3496">Fomentar el estudio de carreras vinculadas con las ciencias y la tecnología.</flowPara></flowRoot>    </g>
-    <circle
-       r="7.3479171"
-       cy="764.01721"
-       cx="66.249596"
-       id="circle3500"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3502"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.33927536px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate;"
-       transform="translate(-13.194926,80.435839)"><flowRegion
-         id="flowRegion3504"><rect
-           id="rect3506"
-           width="264.28571"
-           height="120"
-           x="104.28571"
-           y="672.36218"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
-         id="flowPara3508">Fomentar la experimentación sobre la relación entre arte y tecnología.</flowPara></flowRoot>    <g
-       transform="translate(332.27724,80.812204)"
-       id="g3510"
-       style="fill:#ffffff;fill-opacity:1">
-      <circle
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle3512"
-         cx="65.302383"
-         cy="682.19489"
-         r="7.3479171" />
-      <flowRoot
-         transform="translate(-14.142135,-1.3865171)"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.33927536px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="flowRoot3514"
-         xml:space="preserve"><flowRegion
-           id="flowRegion3516"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
-             y="672.36218"
-             x="104.28571"
-             height="120"
-             width="264.28571"
-             id="rect3518" /></flowRegion><flowPara
-           id="flowPara3520">Propiciar una construcción colaborativa del conocimiento.</flowPara></flowRoot>    </g>
+             id="rect3506" /></flowRegion><flowPara
+           id="flowPara3508">Fomentar la experimentación sobre la relación entre arte y tecnología.</flowPara></flowRoot>      <g
+         style="fill:#52a0d7;fill-opacity:1"
+         id="g3510"
+         transform="translate(332.27724,80.812204)">
+        <circle
+           r="7.3479171"
+           cy="682.19489"
+           cx="65.302383"
+           id="circle3512"
+           style="opacity:1;fill:#52a0d7;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3514"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.33927536px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#52a0d7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+           transform="translate(-14.142135,-1.3865171)"><flowRegion
+             id="flowRegion3516"><rect
+               id="rect3518"
+               width="264.28571"
+               height="120"
+               x="104.28571"
+               y="672.36218"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#52a0d7;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara3520">Propiciar una construcción colaborativa del conocimiento.</flowPara></flowRoot>      </g>
+    </g>
     <g
        id="g3587"
-       style="fill:#ffffff"
-       transform="matrix(1.1756896,0,0,1.1756896,-97.341916,-159.81199)">
+       style="fill:#52a0d7;fill-opacity:1"
+       transform="matrix(1.1756896,0,0,1.1756896,-121.68855,-159.81199)">
       <flowRoot
          transform="translate(-8.6372117,-27.142857)"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.33927536px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.33927536px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#52a0d7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowRoot3522"
          xml:space="preserve"><flowRegion
            id="flowRegion3524"><rect
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#52a0d7;fill-opacity:1"
              y="877.60583"
              x="226.27417"
              height="49.292534"
