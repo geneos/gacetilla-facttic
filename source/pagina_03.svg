@@ -81,7 +81,7 @@
        x2="186.87823"
        y2="381.62097"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.478783,0,0,1.478783,-6.7204498,-218.52289)" />
+       gradientTransform="matrix(1.478783,0,0,1.478783,17.122526,-855.80443)" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4939">
@@ -104,6 +104,27 @@
          id="rect4945"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3421">
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="circle3423"
+         cx="133.21611"
+         cy="321.33078"
+         r="147.88582" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3692">
+      <rect
+         y="476.56876"
+         x="288.21173"
+         height="75.743683"
+         width="168.68697"
+         id="rect3694"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -113,8 +134,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="214.34164"
-     inkscape:cy="396.4533"
+     inkscape:cx="83.347657"
+     inkscape:cy="473.32938"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -133,7 +154,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -186,19 +207,19 @@
            x="42.857143"
            y="148.79077"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4255">Conocer, viajar y explorar, son valores importantes en De Mentes Libres, por eso, el comienzo de este proyecto fue un viaje donde recorrimos cuatro provincias realizando charlas, talleres y encuentros.</flowPara><flowPara
+         id="flowPara4255">Conocer, viajar y explorar, son valores importantes en De Mentes Libres, por eso, el comienzo de este proyecto fue un viaje donde recorrimos cuatro provincias realizando charlas, talleres y encuentros. Luego, continuamos por los caminos aprendiendo y compartiendo nuestro conocimiento.</flowPara><flowPara
          id="flowPara4257" /><flowPara
          id="flowPara4259" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#5599ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="46.571426"
-       y="237.50507"
+       x="284.76086"
+       y="263.50507"
        id="text4261"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4263"
-         x="46.571426"
-         y="237.50507"
+         x="284.76086"
+         y="263.50507"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#5599ff;fill-opacity:1"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
    id="tspan4267">Versión</tspan> Rodante</tspan></text>
@@ -211,8 +232,8 @@
        preserveAspectRatio="none"
        height="472.42538"
        width="351.11545"
-       clip-path="url(#clipPath4282)"
-       transform="matrix(0.67623179,0,0,0.67623179,50.001446,147.77218)"
+       clip-path="url(#clipPath3421)"
+       transform="matrix(0.67623179,0,0,0.67623179,33.878074,578.72218)"
        mask="none"
        style="fill:url(#linearGradient4343);fill-opacity:1" />
     <rect
@@ -222,48 +243,8 @@
        height="115.71429"
        x="17.142857"
        y="279.50507" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text4162"
-       y="624.4798"
-       x="44.571426"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#5599ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#5599ff;fill-opacity:1"
-         y="624.4798"
-         x="44.571426"
-         id="tspan4164"
-         sodipodi:role="line">Tecnópolis  </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#5599ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="45.581577"
-       y="662.8656"
-       id="text4168"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4170"
-         x="45.581577"
-         y="662.8656"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#5599ff;fill-opacity:1">Pueblo Cooperativo - 2013 y 2014</tspan></text>
     <flowRoot
-       transform="translate(3.338652,535.51427)"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="flowRoot4172"
-       xml:space="preserve"><flowRegion
-         id="flowRegion4174"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
-           y="148.79077"
-           x="42.857143"
-           height="78.511963"
-           width="643.96881"
-           id="rect4176" /></flowRegion><flowPara
-         id="flowPara4192"
-         style="font-size:13.75px">La propuesta de <flowSpan
-   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.75px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic'"
-   id="flowSpan4209">&quot;Vivir la experiencia de la comunicación&quot;</flowSpan> llevada a cabo por el programa Usina de Medios (INAES) integró talleres en cuatro espacios: televisión, radio, prensa gráfica y software libre, éste último bajo nuestra coordinación.</flowPara><flowPara
-         id="flowPara4207" /></flowRoot>    <flowRoot
-       transform="translate(207.30824,102.17403)"
+       transform="translate(199.61993,614.45706)"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0.29614934px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="flowRoot4213"
        xml:space="preserve"><flowRegion
@@ -274,7 +255,15 @@
            height="80.82814"
            width="472.94846"
            id="rect4217" /></flowRegion><flowPara
-         id="flowPara4227">El proyecto tuvo una primera edición rodante, que comenzó el 29 de Marzo de 2014 y durante un mes visitó pueblos y ciudades cercanos a Córdoba, Santa Fe, Azul y Tandil, finalizando el 26 de Abril en el FLISOL en la Universidad de Quilmes.</flowPara><flowPara
+         id="flowPara4227">El proyecto tuvo una primera edición rodante, que comenzó el 29 de Marzo de 2014 y durante un mes visitó pueblos y ciudades cercanos a <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
+   id="flowSpan3425">Córdoba, Santa Fe, Azul y Tandil</flowSpan>, finalizando el 26 de Abril en el <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
+   id="flowSpan3429">FLISOL</flowSpan> <flowSpan
+   style="-inkscape-font-specification:'Open Sans Italic';font-family:'Open Sans';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="flowSpan3431">(Festival Latinoamericano de Instalación e Software Libre)</flowSpan> en la <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
+   id="flowSpan3427">Universidad de Quilmes</flowSpan>.</flowPara><flowPara
          id="flowPara4221" /><flowPara
          id="flowPara4223" /></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -286,76 +275,16 @@
            height="48.48732"
            x="46.467018"
            y="689.71747" /></flowRegion><flowPara
-         id="flowPara4239"></flowPara></flowRoot>    <g
-       id="g4947"
-       transform="translate(-88.467017,-3.0101525)">
-      <image
-         sodipodi:absref="/home/neto/proyectos/actividades educativas/De Mentes Libres/gacetilla-facttic/source/img/azul.jpg"
-         xlink:href="img/azul.jpg"
-         y="453.55048"
-         x="275.20642"
-         id="image4888"
-         preserveAspectRatio="none"
-         height="145.26123"
-         width="193.68164"
-         clip-path="url(#clipPath4943)"
-         transform="translate(54.563441,-9.5964491)" />
-      <image
-         sodipodi:absref="/home/neto/proyectos/actividades educativas/De Mentes Libres/gacetilla-facttic/source/img/riocuarto.JPG"
-         xlink:href="img/riocuarto.JPG"
-         y="468.32394"
-         x="284.7157"
-         id="image4899"
-         preserveAspectRatio="none"
-         height="115.71429"
-         width="174.66307"
-         clip-path="url(#clipPath4939)"
-         transform="translate(54.563441,-136.37059)" />
-      <image
-         sodipodi:absref="/home/neto/proyectos/actividades educativas/De Mentes Libres/gacetilla-facttic/source/img/santafe.JPG"
-         xlink:href="img/santafe.JPG"
-         y="331.95337"
-         x="524.92749"
-         id="image4910"
-         preserveAspectRatio="none"
-         height="115.71429"
-         width="174.66307" />
-      <image
-         sodipodi:absref="/home/neto/proyectos/actividades educativas/De Mentes Libres/gacetilla-facttic/source/img/tandil.jpg"
-         xlink:href="img/tandil.jpg"
-         y="458.72754"
-         x="525.41907"
-         id="image4932"
-         preserveAspectRatio="none"
-         height="115.71427"
-         width="173.67996" />
-    </g>
-    <image
-       sodipodi:absref="/home/neto/proyectos/actividades educativas/De Mentes Libres/gacetilla-facttic/source/img/13-11-04-04.jpg"
-       xlink:href="img/13-11-04-04.jpg"
-       width="228.10045"
-       height="152.06697"
+         id="flowPara4239" /></flowRoot>    <image
+       sodipodi:absref="/home/neto/proyectos/actividades educativas/De Mentes Libres/gacetilla-facttic/source/img/riocuarto.JPG"
+       xlink:href="img/riocuarto.JPG"
+       transform="matrix(4.2041577,0,0,4.2041577,-1194.5447,-1693.1655)"
+       clip-path="url(#clipPath3692)"
+       width="174.66307"
+       height="115.71429"
        preserveAspectRatio="none"
-       id="image4961"
-       x="43.203148"
-       y="771.0069" />
-    <image
-       sodipodi:absref="/home/neto/proyectos/actividades educativas/De Mentes Libres/gacetilla-facttic/source/img/SAM_0315-2.jpg"
-       xlink:href="img/SAM_0315-2.jpg"
-       width="202.75523"
-       height="152.06644"
-       preserveAspectRatio="none"
-       id="image4983"
-       x="280.20941"
-       y="771.00745" />
-    <image
-       sodipodi:absref="/home/neto/proyectos/actividades educativas/De Mentes Libres/gacetilla-facttic/source/img/SAM_0301-2.jpg"
-       xlink:href="img/SAM_0301-2.jpg"
-       width="202.75523"
-       height="152.06644"
-       preserveAspectRatio="none"
-       id="image5005"
-       x="491.87045"
-       y="771.00745" />
+       id="image4899"
+       x="284.7157"
+       y="468.32394" />
   </g>
 </svg>
